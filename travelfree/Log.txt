@@ -1,0 +1,35 @@
+hostinger.fr
+nom: ANDRE
+prenom:amelia
+
+mot de pass: amelia-adrar
+mail: am66andre@gmail.com
+
+
+sous domaine: librevoyage.esy.es
+mot de pass: amelia-adrar
+
+
+
+////BDD///
+
+
+Nom de base de donnees Mysql     u379090337_ travf
+Utilisateur Mysql                u379090337_ ameli
+
+mot de pass :                    bdd_mysql
+mot de pass à nouveau:           bdd_mysql
+
+  
+
+////  TTP  //////
+
+Vous pouvez utiliser l'une des adresses indiquées ci-dessous pour gérer votre site web:
+
+Nom d'hôte FTP Temporaire: 31.170.165.156
+Nom d'hôte FTP complet: ftp.librevoyage.esy.es
+Nom d'utilisateur FTP: u379090337
+Mot de passe FTP: amelia-adrar
+
+
+u379090337_travf	u379090337_ameli	mysql.hostinger.fr	0.02
